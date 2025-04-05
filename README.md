@@ -9,12 +9,6 @@ This project implements a machine learning model to detect fraudulent credit car
 - [Dataset](#dataset)
 - [Features](#features)
 - [Modeling Approach](#modeling-approach)
-- [Results](#results)
-- [Installation & Usage](#installation--usage)
-- [Project Structure](#project-structure)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
 ---
 
 ## 📖 Overview
